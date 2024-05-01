@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Mern Stack<br>I m looking to collaborate on remote opportunity as a javascript fullstack developer<br>I m looking for help with my github profile<br>I"m currently learning about contributing to open source<br>Ask me about Web Dev, AI Prompt Engineering<br>Fun Fact Love to build web products
+I'm a JavaScript Full-Stack Developer with expertise in the MERN stack<br> passionate about remote collaboration and building innovative web products<br>Currently learning open source contribution and AI prompt engineering<br>Ask me about Web Dev, AI Prompt Engineering<br> I love exploring new technologies and turning ideas into reality<br>Let's connect and create something awesome together! 🚀
 
 
 ## 🌐 Socials:
