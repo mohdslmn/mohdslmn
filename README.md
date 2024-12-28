@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a JavaScript Full-Stack Developer with expertise in the MERN stack<br> passionate about remote collaboration and building innovative web products<br>Currently learning open source contribution and AI prompt engineering<br>Ask me about Web Dev, AI Prompt Engineering<br> I love exploring new technologies and turning ideas into reality<br>Let's connect and create something awesome together! 🚀
+I'm a JavaScript Full-Stack Developer with expertise in the MERN stack<br> passionate about remote collaboration and building innovative web products<br> Contributing to open-source and Working as a Fullstack Engineer<br>Ask me about Frontend,Backend,DevOps,Database Integrations<br> I love exploring new technologies and turning ideas into reality<br>Let's connect and create something awesome together! 🚀
 
 
 ## 🌐 Socials:
